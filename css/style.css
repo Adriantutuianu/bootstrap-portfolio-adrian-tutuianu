@@ -6,3 +6,7 @@
   width: 65px;
 }
 
+html, body {
+  height: 100%;
+  width: 100%;
+}
