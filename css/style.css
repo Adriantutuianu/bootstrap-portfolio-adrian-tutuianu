@@ -1,3 +1,8 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
 .nav-item {
   margin-right: 25px;
 }
@@ -6,7 +11,10 @@
   width: 65px;
 }
 
-html, body {
-  height: 100%;
-  width: 100%;
+.jumbotron {
+background-image: url("../images/portfolio-photp.jpg");
+}
+
+.card-body {
+  background-image: url("../images/portfolio-photp.jpg");
 }
