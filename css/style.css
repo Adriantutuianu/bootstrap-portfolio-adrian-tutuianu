@@ -1,4 +1,4 @@
-.nav-link {
+.nav-item {
     margin-right: 25px;
 }
 
@@ -8,4 +8,7 @@
     border: 2px solid black;
     margin-right: 10px;
   }
-  
+
+  .jumbotron {
+    background-image: url("../images/portfolio-photp.jpg");
+  }
