@@ -1,8 +1,8 @@
-html, body {
+html,
+body {
   height: 100%;
   width: 100%;
 }
-
 
 .nav-item {
   margin-right: 25px;
@@ -13,10 +13,17 @@ html, body {
 }
 
 .jumbotron {
-background-image: url("../images/portfolio-photp.jpg");
+  background-image: url("../images/portfolio-photp.jpg");
+}
+
+#work {
+  background-color: rgb(200, 211, 211);
 }
 
 .card-body {
   background-image: url("../images/portfolio-photp.jpg");
 }
 
+.card-img {
+  max-height: 250px;
+}
