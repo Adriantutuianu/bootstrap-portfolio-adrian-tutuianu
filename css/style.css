@@ -3,12 +3,13 @@ html, body {
   width: 100%;
 }
 
+
 .nav-item {
   margin-right: 25px;
 }
 
 .navbar-brand img {
-  width: 65px;
+  width: 50px;
 }
 
 .jumbotron {
@@ -18,3 +19,4 @@ background-image: url("../images/portfolio-photp.jpg");
 .card-body {
   background-image: url("../images/portfolio-photp.jpg");
 }
+
