@@ -24,16 +24,21 @@ body {
   background-image: url("../images/portfolio-photp.jpg");
 }
 /* work  */
-.card-img {
-  max-height: 250px;
+.work-card .card .card-img {
+  width: 100%;
+  height: 250px;
+  object-fit: contain;
 }
+
 /* skills */
 .skills-card .card {
   max-width: 120px; 
   margin: 10px; 
 }
+
 .skills-card .card .skills-img {
   width: 100%;
   height: 90px;
-  object-fit: content;
+  object-fit: contain;
 }
+
