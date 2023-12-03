@@ -52,3 +52,10 @@ body {
   height: 70px;
   margin: 20px;
 }
+.footer-img:hover{
+  fill: aqua;
+}
+
+.abc img:hover{
+background-color: rgb(200, 211, 211);
+}
