@@ -7,7 +7,7 @@
 :root {
   --var-color1: rgb(200, 211, 211);
 }
-
+/* nav-bar */
 .nav-item {
   margin-right: 25px;
 }
@@ -20,7 +20,7 @@
 .active:hover {
   color: var(--var-color1) !important;
 }
-
+/* jumbotron */
 .jumbotron {
   background-image: url("../images/portfolio-photp.jpg");
 }
@@ -29,10 +29,6 @@
 #work,
 #about {
   background-color: var(--var-color1);
-}
-
-.skill-card {
-  width: 120px;
 }
 
 .card-body {
@@ -50,6 +46,10 @@
 .skills-card .card {
   max-width: 120px;
   margin: 10px;
+}
+
+.skill-card {
+  width: 120px;
 }
 
 .skills-card .card .skills-img {
