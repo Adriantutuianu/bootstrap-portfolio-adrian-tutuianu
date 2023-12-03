@@ -46,3 +46,9 @@ body {
 .card-height {
   height: 250px;
 }
+
+.footer-img {
+  width: 70px;
+  height: 70px;
+  margin: 20px;
+}
