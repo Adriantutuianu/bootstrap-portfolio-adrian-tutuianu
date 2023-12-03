@@ -18,7 +18,7 @@ N/A
 
 ## Usage
 
-![Portfolio](images/Mockup_portfolio.png)
+![Portfolio](images/mockup-bootstrap-challenge.png)
 
 ## Credits
 
