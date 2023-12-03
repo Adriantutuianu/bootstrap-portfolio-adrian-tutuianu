@@ -16,15 +16,21 @@ body {
 .jumbotron {
   background-image: url("../images/portfolio-photp.jpg");
 }
+
 /* work  */
 #work,
 #about {
   background-color: rgb(200, 211, 211);
 }
 
+.skill-card {
+  width: 120px;
+}
+
 .card-body {
   background-image: url("../images/portfolio-photp.jpg");
 }
+
 /* work  */
 .work-card .card .card-img {
   width: 100%;
@@ -53,10 +59,11 @@ body {
   height: 70px;
   margin: 20px;
 }
-.footer-img:hover{
+
+.footer-img:hover {
   fill: aqua;
 }
 
-.footer-hover img:hover{
-background-color: rgb(200, 211, 211);
+.footer-hover img:hover {
+  background-color: rgb(200, 211, 211);
 }
