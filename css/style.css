@@ -16,7 +16,8 @@ body {
   background-image: url("../images/portfolio-photp.jpg");
 }
 /* work  */
-#work, #contact {
+#work,
+#about {
   background-color: rgb(200, 211, 211);
 }
 
@@ -32,8 +33,8 @@ body {
 
 /* skills */
 .skills-card .card {
-  max-width: 120px; 
-  margin: 10px; 
+  max-width: 120px;
+  margin: 10px;
 }
 
 .skills-card .card .skills-img {
@@ -42,3 +43,6 @@ body {
   object-fit: contain;
 }
 
+.card-height {
+  height: 300px;
+}
