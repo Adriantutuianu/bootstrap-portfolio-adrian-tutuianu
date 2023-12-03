@@ -10,6 +10,7 @@ body {
 
 .navbar-brand img {
   width: 50px;
+  height: 50px;
 }
 
 .jumbotron {
@@ -56,6 +57,6 @@ body {
   fill: aqua;
 }
 
-.abc img:hover{
+.footer-hover img:hover{
 background-color: rgb(200, 211, 211);
 }
