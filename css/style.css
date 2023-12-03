@@ -13,6 +13,10 @@ body {
   height: 50px;
 }
 
+.active:hover {
+  color: rgb(200, 211, 211) !important;
+}
+
 .jumbotron {
   background-image: url("../images/portfolio-photp.jpg");
 }
@@ -60,9 +64,9 @@ body {
   margin: 20px;
 }
 
-.footer-img:hover {
+/* .footer-img:hover {
   fill: aqua;
-}
+} */
 
 .footer-hover img:hover {
   background-color: rgb(200, 211, 211);
